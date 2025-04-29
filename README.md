@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**robomaniac/robomaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a maker at heart, diving into the exciting worlds of robotics, FPV, and embedded systems. You'll often find me tinkering with Arduinos and ESP32s, bringing cool ideas to life.
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeromedemers/)](https://www.linkedin.com/in/jeromedemers/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills:
+- Robotics
+- First-Person View (FPV) Systems
+- Embedded Systems (Arduino, ESP32)
+- System Design
+- Electrical Engineering
+- Solidworks
+- Altium Designer
+- 3D Printing
+
+Feel free to connect with me on LinkedIn – always up for a chat about cool tech! 😄
