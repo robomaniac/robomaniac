@@ -10,7 +10,7 @@ I enjoy building, debugging, and documenting how things work. Here you'll find s
 
 ## Selected projects
 
-### [TLA2528 Arduino Library](https://github.com/robomaniac/TLA2528_Arduino_Library)
+### [TLA2528 Arduino Library](https://github.com/robomaniac/tla2528-arduino-library)
 
 An Arduino C++ library I developed for the TLA2528 ADC/GPIO device. It provides analog input and digital I/O control, with example sketches and hardware photos.
 
